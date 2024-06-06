@@ -14,7 +14,7 @@ echo "]"
 # Warten, bis die Updates abgeschlossen sind
 echo "Starte Updates..."
 
-pip install cryptography
+pip3 install cryptography
 
 sleep 0.5
 
